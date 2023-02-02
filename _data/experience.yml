@@ -1,19 +1,54 @@
 # Jobs
-# VP of Global Communications
-- company: Springfield International Human Rights Outreach
-  position: VP of Global Communications
-  duration: Oct, 2013 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+# GitHub Chief of Staff
+- company: GitHub
+  position: Business Manager and Acting Chief of Staff
+  duration: March, 2022 &mdash; Present
+  summary: I am the Acting Chief of Staff for the VP of Engineering, overseeing the Platform and Enterprise Team (~450 engineers). I act as an Advisor to the VP and associated Leadership Team.	<ul class="resume-item-list"><li>Research, document, and advise ways to keep the P&E organization on a path of continuous improvement. </li><li>Represent and drive strategic, functional, and business updates for P&E.</li><li>Set and coordinate the Rhythm of Business for P&E, including monthly, quarterly, and semester business reviews.</li><li>Develop executive-ready artifcats and analysis for GitHub Exectutive LT (c-level), including planning and business reviews.</li></ul>
 
-# Director of Digital Stratgy
-- company: United Nations Human Rights Council
-  position: Director of Digital Strategy
-  duration:  Jun, 2010 &mdash; Sept, 2013
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+# UW Data Engineering Manager
+- company: UW Medicine
+  position: Data Engineering Manager
+  duration:  May, 2021 &mdash; Mar, 2022
+  summary: I lead a team of ~ 16 developers and am responsible for the overall technical solution delivery in UW Medicine Analytics. My team is responsible for the Enterprise Data Warehouse, associated data pipelines, and data visualization platforms.	<ul class="resume-item-list"><li>Directly Managed a Team of 16 developers and data engineers.</li><li>Responsible for all enterprise dashboards, including the mission-critical COVID dashboards and pipelines.</li><li>Presented weekly to UW Medicine c-level execs on UW Analytics initative progress, issues, perspectives, and trends. </li></ul>
 
+# UW PMO Manager
+- company: UW Medicine
+  position: PMO Manager
+  duration:   Jun, 2020  &mdash; May, 2021
+  summary: Managed a team of 8 Program Managers running mission critical technical programs, which led technical program budgets totaling more than $30MM. Personally led the DAWG Program as an IC Technical Program Manager; which included deprecating the EDW, and migrating to virtual infrastructure and architecture.
 
-# Communications Coordinator
-- company: Springfield Women & Children's Center
-  position: Communications Coordinator
-  duration:   Jun, 2008  &mdash; May, 2010
+# Vanick President
+- company: Vanick Digital
+  position: President and VP of Operations
+  duration:   Jan, 2017  &mdash; Jul, 2019
+  summary: President of Vanick's software development practice and VP of Operations across holding company, directly responsible for P&L. Responsible for all facets and business functions of software development practice. 	<ul class="resume-item-list"><li>Managed a team of ~50 people, consisting mostly of Web Devs and Program Managers.</li><li>Improved overall profitability from approximately 7% to more than 20% by improving contractual structures, reducing bugs, and simplifying our services.</li><li>Left company because of acquisition by Prokarma (now Concentrix Catalyst).</li></ul>
+
+# Vanick Director
+- company: Vanick Digital
+  position: Director of Software Development
+  duration:   Aug, 2015  &mdash; Dec, 2016
+  summary: Oversaw all software development teams across Vanick. Responsible for all technical delivery across 12+ clients for custom software development.	<ul class="resume-item-list"><li>Managed ~25 architects and software engineers.</li><li>Ensured the final product is highly performant, responsive, and high quality.</li><li>Led all hiring and onboarding for technical/development resources.</li></ul>
+
+# Vanick DevOps
+- company: Vanick Digital
+  position: Manager of DevOps
+  duration:   Feb, 2015  &mdash; Aug, 2015
+  summary: Key objective was to modernize operational processes and platforms. Migrated all org and client infrastructure from physical hardware to virtual hardware. Selected, implemented, and administered new platforms for: 1) PMO budget and task management and 2) Resourcing management and capacity planning.
+
+# Vanick Project Manager
+- company: Vanick Digital
+  position: Project Manager
+  duration:   Feb, 2014  &mdash; Jan, 2015
+  summary: Primarily managed two on-going projects, and acted as a Scrum Master. <ul class="resume-item-list"><li>Managed ~25 architects and software engineers.</li><li>Core Build: Ran a 12-person cross-functional scrum team focused on maintaining and improving the core loan origination system for FAMC.</li><li>DX projects: Consisted primarily of a QA automation project team with four resources, two internal IoT pilot projects, and created a DX roadmap for our internal developer tooling and platforms.</li></ul>
+
+# FAMC Build Manager
+- company: Franklin American Mortgage Company
+  position: Project Coordinator
+  duration:   Nov, 2012  &mdash; Jan, 2014
   summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+
+# Consensus Point RM
+- company: Consensus Point
+  position: Relationship Manager
+  duration:   Jun, 2012  &mdash; Nov, 2012
+  summary: Acted as a technical salesperson for a SaaS prediction market platform 12-person startup. Our platform assisted companies through predictions and choices based on cloud intelligence. Acted as QA and technical report writer as needed.
